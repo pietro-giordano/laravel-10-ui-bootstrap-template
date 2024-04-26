@@ -18,7 +18,7 @@
 
     <div class="content">
         <div class="container">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora temporibus, dicta nemo aliquam totam nisi deserunt soluta quas voluptatum ab beatae praesentium necessitatibus minus, facilis illum rerum officiis accusamus dolores!</p>
+            <p>Template Laravel 10 + laravel ui + bootstrap 5.2.3 + bootstrap icons</p>
         </div>
     </div>
 @endsection
